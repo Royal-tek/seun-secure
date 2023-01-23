@@ -695,7 +695,7 @@ section {
 }
 .mom{
   display: flex;
-  /* justify-content: space-between; */
+    /* justify-content: space-between; */
 }
 .long{
   width: 100%;
@@ -745,7 +745,7 @@ section {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: 1000px;
+  /* height: 1000px; */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -780,9 +780,9 @@ section {
 
 .pricing h3 {
   font-weight: 500;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   font-size: 20px;
-  color: #37517e;
+  color: black;
 }
 
 .pricing h4 {
@@ -790,7 +790,7 @@ section {
   color: #37517e;
   font-weight: 400;
   font-family: "Jost", sans-serif;
-  margin-bottom: 25px;
+  /* margin-bottom: 25px; */
 }
 
 .pricing h4 sup {
@@ -806,7 +806,7 @@ section {
 .pricing ul {
   padding: 20px 0;
   list-style: none;
-  color: #999;
+  color: black;
   text-align: left;
   line-height: 20px;
 }
